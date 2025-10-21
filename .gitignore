@@ -1,0 +1,11 @@
+# ignore all json file
+**/*.json
+
+# ignore data
+**/data
+
+# ignore DS_Store
+**/.DS_Store
+
+# ignore .venv
+**/.venv
